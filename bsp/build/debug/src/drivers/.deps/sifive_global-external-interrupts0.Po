@@ -1,0 +1,4 @@
+src/drivers/sifive_global-external-interrupts0.o: \
+ C:/VSD_Sqd_Project/sifive_hifive1_Cam_Cap_Pred_Complete_Inference_Pipeline/freedom-metal/src/drivers/sifive_global-external-interrupts0.c \
+ metal/machine/platform.h
+metal/machine/platform.h:

@@ -1,0 +1,2 @@
+src/entry.o: \
+ C:/VSD_Sqd_Project/sifive_hifive1_Cam_Cap_Pred_Complete_Inference_Pipeline/freedom-metal/src/entry.S

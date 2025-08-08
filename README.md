@@ -1,4 +1,4 @@
-# Capstone project: 
+# Capstone project: Complete Inference Pipeline Successfully Tested and Deployed
 
 Capture images using your webcam, preprocess the image, send it over uart to board, then run onboard preprocessing, and then generate inference
 
@@ -102,3 +102,18 @@ Inference completed in lu us.
 Finding prediction...
 Predicted digit: 8, True Label: 8, Status: PASS
 ```
+
+<img src="COMPLETE_INFERENCE.gif"/>
+
+Download Video Here:
+https://drive.google.com/file/d/1mWj_ny3l_ftZYzJnuG_UuPXYb_rHnAbG/view?usp=sharing
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the `LICENSE` file for details.
+
+## Acknowledgments
+
+  * VLSI System Design (VSD) & Mawle Technologies for the VSDSquadron PRO board and the internship opportunity.
+  * SiFive for the FE310-G002 RISC-V SoC and Freedom Studio.
+  * TensorFlow Lite team for the quantization and inference tools.
